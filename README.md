@@ -2,9 +2,8 @@
 Lending Club Case Study
 
 ## Table of Contents
-* [Objective]
-* [Approach]
-* [Conclusions]
+* Objective
+* Conclusions
 
 ## Objective
 Problem Statement:
